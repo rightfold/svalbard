@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=svalbard
+
+create_projects 2018-06-02T15:42:59Z r <r@r-gentoo> # create_projects
+create_builds [create_projects] 2018-06-02T15:37:24Z r <r@r-gentoo> # create_builds
